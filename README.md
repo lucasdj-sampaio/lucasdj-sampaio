@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Sampaio</h1>
 
 <div align="center">
-  <a href="mailto:lucasdejesussampaio@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://linkedin.com/in/lucasdjsampaio" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasdjsampaio"/></a>
-  <a href="https://wa.me/5511959457181?text=Hi%20Lucas%2C%20I%20would%20like%20to%20know%20more%20about%20your%20services.%20Could%20you%20please%20provide%20more%20information%3F%20Thank%20you!%0A" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
-  <a href="https://www.instagram.com/lucasdj_sampaio/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lucasdj_sampaio"/></a>
-  <a href="https://lucasdj-sampaio-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="lucasdjsampaio"/></a>
+  <a href="mailto:lucasdejesussampaio@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://linkedin.com/in/lucasdjsampaio" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://wa.me/5511959457181?text=Hi%20Lucas%2C%20I%20would%20like%20to%20know%20more%20about%20your%20services.%20Could%20you%20please%20provide%20more%20information%3F%20Thank%20you!%0A" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/lucasdj_sampaio/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="https://lucasdj-sampaio-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a>
 </div>
 
 <h3 align="left">About me</h3>
