@@ -11,7 +11,7 @@
 <h3 align="left">About me</h3>
 
 <p>• 👨‍💻 Full-Stack Engineer focused on React.js and C#</p> 
-<p>• 🚀 Passionate about building clean, scalable web apps and APIs.</p> 
+<p>• 🚀 Passionate about building clean, scalable web apps, APIs and RPA</p> 
 <p>• ⚡ Always eager to learn new tech and solve challenging problems.</p> 
 
 ---
