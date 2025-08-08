@@ -8,12 +8,11 @@
   <a href="https://lucasdj-sampaio-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="lucasdjsampaio"/></a>
 </div>
 
-**Github Stats**
+<h3 align="left">About me</h3>
 
-<a href="https://beacons.ai/lucasdj-sampaio" align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdj-sampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdj-sampaio&layout=compact&langs_count=16&theme=dark"/>
-</a>
+<p>• 👨‍💻 Full-Stack Engineer focused on React.js and C#</p> 
+<p>• 🚀 Passionate about building clean, scalable web apps and APIs.</p> 
+<p>• ⚡ Always eager to learn new tech and solve challenging problems.</p> 
 
 ---
 
@@ -29,3 +28,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
+
+<h3 align="left">Github Stats</h3>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdj-sampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdj-sampaio&layout=compact&langs_count=16&theme=dark"/>
+</div>
