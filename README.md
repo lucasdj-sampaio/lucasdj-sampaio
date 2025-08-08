@@ -34,3 +34,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdj-sampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdj-sampaio&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+<!-- Snake -->
+<div align="center">
+  
+ ![snake gif](https://github.com/lucasdj-sampaio/lucasdj-sampaio/blob/output/github-snake-dark.svg)
+</div>
